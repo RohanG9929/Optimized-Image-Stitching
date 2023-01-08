@@ -1,4 +1,7 @@
 # Optimized Image Stitching
+
+### [Project Page](https://rohang9929.github.io/image-stitching/) |
+
  Optimized Image Stitching Algorithm
 
 
