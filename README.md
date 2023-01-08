@@ -2,8 +2,8 @@
 
 ### [Project Page](https://rohang9929.github.io/image-stitching/) |
 
- Optimized Image Stitching Algorithm
-
+<!--  Optimized Image Stitching Algorithm
+ -->
 
 Starting with two images 
 
